@@ -1,4 +1,4 @@
-<a href="https://dreamwall.online" target="_blank"><img src="https://raw.githubusercontent.com/saffanalvy/dreamwall/main/dreamwall-logo.png" alt="DreamWall" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://dreamwall.online" target="blank"><img src="https://raw.githubusercontent.com/saffanalvy/dreamwall/main/dreamwall-logo.png" alt="DreamWall" style="height: auto !important;width: auto !important;" ></a>
 
 # DreamWall
 Your Dream Wallpaper Manager - Available for Windows
