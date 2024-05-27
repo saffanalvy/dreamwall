@@ -8,7 +8,7 @@ Minimalist wallpaper manager software which works at a blazing fast speed. Make 
 <br/><br/>
 Visit our official website: <a href="https://dreamwall.online" target="_blank">DreamWall.online</a>.
 
-## Suport
+## Support
 You can support DreamWall by donating and sharing it to others.
 <br/><br/>
 <a href="https://www.buymeacoffee.com/saffanalvy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
