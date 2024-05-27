@@ -13,7 +13,7 @@ You can support DreamWall by donating and sharing it to others.
 
 ## Screenshot
 <br/>
-<img src="https://raw.githubusercontent.com/saffanalvy/dreamwall/main/screenshot.jpg" alt="DreamWall Screenshot" style="height: 300 !important;width: auto !important;" >
+<img src="https://raw.githubusercontent.com/saffanalvy/dreamwall/main/screenshot.jpg" alt="DreamWall Screenshot" style="height: 300px !important;width: auto !important;" >
 
 ## Credits
 All the praises due to Allah, the most gracious, the most merciful.
