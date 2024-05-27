@@ -1,4 +1,4 @@
-<a href="https://dreamwall.online"><img src="https://dreamwall.online/wp-content/uploads/2024/05/dreamwall-logo.png" alt="DreamWall"/></a>
+<a href="https://dreamwall.online" target="_blank"><img src="https://dreamwall.online/wp-content/uploads/2024/05/dreamwall-logo.png" alt="DreamWall" style="height: auto !important;width: auto !important;" ></a>
 
 # DreamWall
 Your Dream Wallpaper Manager - Available for Windows
